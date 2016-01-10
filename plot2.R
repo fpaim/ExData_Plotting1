@@ -1,5 +1,5 @@
 
-# need to st locale since I live in Brazil...
+# need to set locale since I live in Brazil...
 # otherwise it would appear "Qui Sex Sab" instead of "Thu Fri Sat"
 Sys.setlocale("LC_TIME", "C")
 
